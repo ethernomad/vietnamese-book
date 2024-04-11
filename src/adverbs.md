@@ -1,0 +1,3 @@
+# Adverbs
+
+* forever - vĩnh viễn
