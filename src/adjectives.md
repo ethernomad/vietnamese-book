@@ -1,4 +1,5 @@
 # Adjectives
 
 * beautiful - xinh đẹp
-* brave - can đảm
+* brave - can đảm / dủng cảm
+* American - người Mỹ
