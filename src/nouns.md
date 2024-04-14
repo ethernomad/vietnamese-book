@@ -8,3 +8,6 @@
 * tea - trà
 * sugar - đường
 * cup - tách
+* passport - hộ chiếu
+* ice - đá
+* person - người
