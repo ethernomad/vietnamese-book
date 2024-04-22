@@ -11,3 +11,9 @@
 * passport - hộ chiếu
 * ice - đá
 * person - người
+* train - tàu hỏa
+* husband - chồng
+* hundred - trăm
+* thousand - nghìn
+* airplace - máy bay
+* airport - sân bay
