@@ -15,5 +15,12 @@
 * husband - chồng
 * hundred - trăm
 * thousand - nghìn
-* airplace - máy bay
+* airplane - máy bay
 * airport - sân bay
+* photo - ảnh
+* elephant - con voi
+* the beginning - sự bắt đầu
+* the end - sự kết thúc
+* wine - rượu
+* question - câu hỏi
+* library - thư viện

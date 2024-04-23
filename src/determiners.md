@@ -1,0 +1,3 @@
+# Determiners
+
+* this - này
