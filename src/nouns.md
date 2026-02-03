@@ -13,6 +13,7 @@
 * person - người
 * train - tàu hỏa
 * husband - chồng
+* grandmother - bà
 * hundred - trăm
 * thousand - nghìn
 * airplane - máy bay
@@ -24,3 +25,26 @@
 * wine - rượu
 * question - câu hỏi
 * library - thư viện
+* testament - di chúc
+* hope - vọng
+* role - vai trò
+* opportunity - cơ hội
+* school - trường học
+* will - di chúc
+* town - thị trấn
+* evidence - bằng chứng
+* prize - giải thưởng
+* program - chương trình
+
+## Plural
+
+* the ... - những ...
+* all the ... - các ...
+* some / a few ... - mấy ...
+* several ... - vài ...
+* quantity ... - quantity + classifier + noun
+* much of, a lot of, many ... - nhiều ... 
+
+## Size
+
+* biggest ... - lớn nhất ...

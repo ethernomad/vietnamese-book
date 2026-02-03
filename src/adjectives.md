@@ -5,3 +5,4 @@
 * American - người Mỹ
 * British - người Anh
 * cheap - rẻ
+* protected - được bảo vệ
