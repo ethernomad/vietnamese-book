@@ -29,12 +29,19 @@
 * hope - vọng
 * role - vai trò
 * opportunity - cơ hội
-* school - trường học
+* school - trường (học)
 * will - di chúc
 * town - thị trấn
 * evidence - bằng chứng
 * prize - giải thưởng
 * program - chương trình
+* game - trò chơi
+* option - lựa chọn
+* note - ghi chú
+* situation - tình hình
+* phenomena - hiện tượng
+* action - hành động
+* answer - câu trả lời
 
 ## Plural
 

@@ -5,7 +5,8 @@
 * they - họ
 * everybody - mọi người
 * you, someone of similar age, a classmate, or a stranger (polite/neutral) - bạn
-* everybody - mọi người
+* it - nó
+* we - chúng tôi
 
 ## Mình
 

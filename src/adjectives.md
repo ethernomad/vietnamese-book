@@ -6,3 +6,6 @@
 * British - người Anh
 * cheap - rẻ
 * protected - được bảo vệ
+* dangerous - nguy hiểm
+* shortest - ngắn nhất
+* complicated - phức tap
