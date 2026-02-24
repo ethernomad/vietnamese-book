@@ -19,10 +19,18 @@
 * challenging - thứ thách
 * agree - đồng ý
 * play - chơi
+* like - thích
+* say - nói
+* hate - ghét
 
 ## Negative
 
 * do not [verb] - không [verb]
+
+
+# Present Continuous Tense
+
+* Subject + đang + Verb
 
 ## Past Tense
 

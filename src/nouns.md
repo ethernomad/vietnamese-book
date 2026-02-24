@@ -42,6 +42,16 @@
 * phenomena - hiện tượng
 * action - hành động
 * answer - câu trả lời
+* relationship - mối quan hệ
+* woman - người phụ nữ
+* customer - khách hàng
+
+## Food
+
+* food - thức ăn / đồ ăn
+* tomato - cà chua
+* drinking water - nước uống
+* instant noodles - mì ăn liền
 
 ## Plural
 
