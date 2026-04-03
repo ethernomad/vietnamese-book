@@ -9,3 +9,5 @@
 * dangerous - nguy hiểm
 * shortest - ngắn nhất
 * complicated - phức tap
+* many - nhiều
+* only - chỉ một

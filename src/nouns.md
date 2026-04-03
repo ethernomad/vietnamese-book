@@ -45,6 +45,10 @@
 * relationship - mối quan hệ
 * woman - người phụ nữ
 * customer - khách hàng
+* colleague - đồng nghiệp
+* individual - cá nhân
+* world - thế giới
+* girlfriend - bạn gái
 
 ## Food
 

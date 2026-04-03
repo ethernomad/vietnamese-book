@@ -1,6 +1,8 @@
 # Verbs
 
 * be [noun] - là [noun]
+* be [existance at location] - [location] + có + [noun]
+* be [general existance] - có + [noun]
 * be [adjective] - [adjective]
 * be [verb] - đang [verb]
 * go - đi
