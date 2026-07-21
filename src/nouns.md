@@ -49,6 +49,12 @@
 * individual - cá nhân
 * world - thế giới
 * girlfriend - bạn gái
+* profile - hồ sơ
+* service - dịch vụ
+* group - nhóm
+* idea - ý tưởng
+* design - thiết kế
+* value - giá trị
 
 ## Food
 
